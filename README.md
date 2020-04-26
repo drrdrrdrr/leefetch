@@ -13,7 +13,7 @@ const fetch = require('leefetch');
 ## Usage
 
 For a more comprehensive API reference that this polyfill supports,refer to
-https://github.com/xxxxx/leefetch
+https://github.com/drrdrrdrr/leefetch
 
 ### Importing
 
