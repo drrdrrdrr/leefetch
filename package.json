@@ -1,0 +1,18 @@
+{
+  "name": "leefetch",
+  "version": "1.0.6",
+  "description": "自己的请求模块",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error:no test specified\" && exit 1"
+  },
+  "keywords": [
+    "axios",
+    "ajax"
+  ],
+  "author": "mr.jiang",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
